@@ -1,0 +1,8 @@
+[package]
+name = "hello-futures"
+version = "0.1.0"
+authors = ["Jason Kim <junchkim@ebay.com>"]
+
+[dependencies]
+futures = "0.1"
+tokio = "0.1"
